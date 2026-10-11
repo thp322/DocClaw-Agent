@@ -23,10 +23,10 @@
   <a href="#项目结构">项目结构</a> |
   <a href="#部署上线">部署上线</a>
 </p>
-
 <p align="center">
-  <a href="https://docclaw.harperwork.cn"><img src="frontend/public/preview.png" alt="DocClaw 预览图" width="800"></a>
+  <a href="https://docclaw.harperwork.cn"><img src="preview.png" alt="DocClaw 预览图" width="800"></a>
 </p>
+
 
 面向产品经理 / 个人开发者 / 一人公司创业者的 **AI 产品文档助手**：哪怕只是一个模糊的 Idea，也能帮你理清思路、找对竞品、落成 PRD，让文档从灵感到落地全程鲜活。
 
